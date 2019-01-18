@@ -1,0 +1,22 @@
+{
+    "name": "marvelous-light",
+    "displayName": "Marvelous Light",
+    "description": "A light color scheme for VSCode",
+    "version": "0.0.1",
+    "publisher": "smokeyjoe",
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Marvelous Light Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Marvelous Light Theme-color-theme.json"
+            }
+        ]
+    }
+}
