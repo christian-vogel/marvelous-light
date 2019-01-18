@@ -2,7 +2,7 @@
     "name": "marvelous-light",
     "displayName": "Marvelous Light",
     "description": "A light color scheme for VSCode",
-    "version": "0.0.2",
+    "version": "1.0.0",
     "publisher": "smokeyjoe",
     "engines": {
         "vscode": "^1.30.0"
@@ -10,6 +10,10 @@
     "categories": [
         "Themes"
     ],
+    "repository": {
+        "type": "git",
+		"url": "git+https://github.com/christian-vogel/marvelous-light.git"
+    },
     "contributes": {
         "themes": [
             {
