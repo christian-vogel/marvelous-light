@@ -1,5 +1,7 @@
 # Marvelous Light Color Theme for Visual Studio Code
 
+![Screenshot](https://github.com/christian-vogel/marvelous-light/raw/master/images/marvelous-light.png)
+
 This Light Theme is made from a JS-Developer perspective
 
 - [Marvelous Light Color Theme for Visual Studio Code](#marvelous-light-color-theme-for-visual-studio-code)
