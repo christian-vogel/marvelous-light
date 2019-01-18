@@ -2,7 +2,7 @@
     "name": "marvelous-light",
     "displayName": "Marvelous Light",
     "description": "A light color scheme for VSCode",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "smokeyjoe",
     "engines": {
         "vscode": "^1.30.0"
